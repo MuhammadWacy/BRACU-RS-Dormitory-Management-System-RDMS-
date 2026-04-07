@@ -1,0 +1,27 @@
+Project Idea: BRACU RS Dormitory Management System (RDMS)
+
+Concept: In RS, the dorm tutors or supervisors (DT) of a particular floor manage every aspect related to the students with the help of some assistants and helpers. They usually communicate with the students via a central WhatsApp group and personal messaging through WhatsApp. There is no organized system for which both the students and dorm supervisors go through troubles. RDMS will be a centralized system having three different user interface- one for the dorm supervisors, one for the assistant or helpers and finally one for the students. This will solve many issues conveniently making it easier for everyone involved.
+
+Some Key Features:
+
+1. There will be a virtual central noticeboard common for all students updated by the DT. Important RS announcements that are usually kept for all students in a noticeboard hung in the lobbies of the dorms will be uploaded there as well so that the students can always stay updated about their RS life from their rooms, classrooms or even outside RS.
+
+2. There will be floor based separate noticeboard for specific floor based announcements.
+
+3. Will have a separate space for floor meeting announcements. DT can declare a meeting and assign a time which all the students will be able to view from their dashboard.
+
+4. As sick students often need their food delivered to them in their rooms, there will be an option for every student to directly request that and the helpers will get notified immediately in their interface and get it done.
+
+5. Students need toilet papers, handwash, air purifiers, quilts etc. in their rooms which often need to be restocked. They will have an option to request restocking of the essential items and the helpers will see and deliver it to 	them.
+
+6. Helpers come to clean rooms at a convenient time of the day. They will have an option to notify the exact moment to students beforehand so they stay prepared. The students will also have an option to request cleaning service in 	their interface.
+
+7. A hazard reporting system will be present for the students and dorm supervisors to immediately report/announce any hazard or safety issues that need immediate attention and action.
+
+8. Students can request for arranging a one on one meeting with their DTs to which the DT can accept or decline or reschedule accordingly.
+
+9. Dorm supervisors can instruct any particular student to meet with him for urgent tasks.
+
+10. Students have to submit their medicines to DT and the DT provides limited amount to students for up to 3 days of consumption and the rest remains with the DT. Students can request for medicine collection beforehand through their 	interface mentioning what medicine they need in what amount and by what time.
+
+11. Sometimes parents often visit to deliver food, clothing or other essentials to their children. The DT needs to know this information earlier as he needs to approve their entry through the gates and towards the parent’s lobby. A parent visit request can be issued through the portal to which the DT can respond accordingly.
